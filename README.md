@@ -6,9 +6,9 @@ Compares three ML models with full evaluation metrics and visualizations.
 ## Model Results
  Model               | Accuracy 
 ---------------------|----------
- Logistic Regression | ~ 0.738822   
- Random Forest       | ~ 0.788502    
- SVM                 | ~ 0.747339   
+ Logistic Regression | ~ 73.88%   
+ Random Forest       | ~ 78.85%    
+ SVM                 | ~ 74.73%   
 
 Best Model: Random Forest
 
